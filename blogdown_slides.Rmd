@@ -2,7 +2,7 @@
 title: "Create a personal Website"
 author: "Xiaosong Zhang"
 date: "4/12/2018@ AARUG <br/> @SPARK Central"
-subtitle: "⚔🛠<br/>with blogdown"
+subtitle: "🛠<br/>with blogdown"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -152,7 +152,11 @@ Image Credit [Alison Presmanes Hill](https://github.com/apreshill/blogdown-works
 class: center, middle
 # Questions?
 
+---
+class: center, middle
 
+# Want a sub-domain name 
+#  like [yourname.aarug.org]()?
 
 ---
 class: center, middle
